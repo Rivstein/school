@@ -47,6 +47,7 @@
   .text-jumbotron {
     background: rgba(0,0,0,0.8);
     border-radius: 4px;
+    overflow-y: scroll;
   }
   .call-to{
     display: block;
