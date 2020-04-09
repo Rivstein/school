@@ -48,6 +48,7 @@
     background: rgba(0,0,0,0.8);
     border-radius: 4px;
     overflow-y: scroll;
+    padding-bottom: 100px;
   }
   .call-to{
     display: block;
