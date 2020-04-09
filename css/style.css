@@ -52,6 +52,9 @@
   .call-to{
     display: block;
   }
+  .hero{
+    margin: 100px 0px;
+  }
 }
 
 
