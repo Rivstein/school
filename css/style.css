@@ -41,6 +41,24 @@
 .call-to{
   display: none;
 }
+.btn-reg {
+  padding: 15px 20px;
+  border: 1px solid #53e574;
+  font-size: 22px;
+  font-weight: bold;
+  margin-right: 15px;
+}
+.btn-log{
+  padding: 15px 20px;
+  background: #53e574;
+  font-size: 22px;
+  font-weight: bold;
+  color: #fff;
+  margin-left: 15px;
+}
+.access{
+  display: none;
+}
 
 @media only screen and (max-width: 991px) {
   /* For mobile phones: */
@@ -52,6 +70,12 @@
   .call-to{
     display: block;
   }
+  .call-off{
+    display: none;
+  }
+  .access{
+  display: block;
+}
 }
 
 
